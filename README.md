@@ -77,7 +77,7 @@ You can create a cache with a default TTL (e.g., 5 seconds). All items added to 
 c.Delete("foo")
 ```
 
-##Examples
+## Examples
 
 ```go
 package main
